@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<color name="white">#FFFFFF</color><!-- 白色 -->
+<color name="black">#3B3B3B</color><!-- 黑色 -->
+<color name="blue">#0000EE</color><!-- 绿色 -->
+<color name="red">#FF3030</color><!-- 红色 -->
+<color name="ivory">#fffff0</color><!--象牙色 -->
+<color name="snow">#fffafa</color><!--雪白色 -->
+<color name="whitesmoke">#f5f5f5</color><!--烟白色 -->
+<color name="ligthgreen">#00EE00</color><!-- 青绿色 -->
+<color name="iknow_tab_color_focus">#ff4d7900</color>
+  <color name="iknow_tab_color">#ff6a6a6a</color>
+  <color name="transparent">#00000000</color>
+  <color name="darkgray">#a9a9a9</color><!--暗灰色 -->
+</resources>

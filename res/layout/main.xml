@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+ <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:id="@+id/text" android:textColor="@color/black" android:textSize="18dip" android:gravity="center" android:layout_marginBottom="10dip"/>
+  <Button android:id="@+id/findallcontact" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="查找所有的联系人" android:textColor="@color/black" android:paddingTop="10dip"/>
+  <Button android:id="@+id/deletecontact" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="删除联系人" android:textColor="@color/black" android:paddingTop="10dip"/>
+    <Button android:id="@+id/updatecontact" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="修改联系人" android:textColor="@color/black" android:paddingTop="10dip"/>
+    <Button android:id="@+id/byphonetoname" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="根据电话号码查询联系人" android:textColor="@color/black" android:paddingTop="10dip"/>
+    <Button android:id="@+id/addcontact" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="添加联系人" android:textColor="@color/black" android:paddingTop="10dip"/>
+</LinearLayout>
